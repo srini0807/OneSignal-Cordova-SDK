@@ -1,7 +1,7 @@
 android.defaultConfig {
   manifestPlaceholders = [
-    onesignal_app_id: "$success", // Use from js code
-    onesignal_google_project_number: "$HelloCordova"
+    onesignal_app_id: "success", // Use from js code
+    onesignal_google_project_number: "HelloCordova"
   ]
 }
 
